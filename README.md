@@ -1,1 +1,1 @@
-# temperature-prediction
+This model will focus on predicting whether the overall temperature Janurary of the upcoming year in New York City will be below or above average. We will create our ow variables from scratch, starting with the daily temperature each day from 1871 from Kaggle, and from there pull more data if needed. 
